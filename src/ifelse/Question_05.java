@@ -1,5 +1,5 @@
 
-// W rite a Java Program to check whether a given number is divisible by 11 or not
+// Write a Java Program to check whether a given number is divisible by 11 or not
 
 package ifelse;
 import java.util.Scanner;
